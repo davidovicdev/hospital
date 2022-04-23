@@ -1,0 +1,11 @@
+<?php
+$usernameDatabase = "itimeok_djole";
+$passwordDatabase = "Djole2021!!";
+$serverName = "162.55.240.240";
+$databaseName = "itimeok_medicaltime";
+/* $usernameDatabase = "root";
+$passwordDatabase = "";
+$serverName = "localhost"; //
+$databaseName = "medicaltime"; */
+
+
